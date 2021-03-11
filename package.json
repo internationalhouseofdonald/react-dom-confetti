@@ -29,7 +29,7 @@
     "webpack": "^2.3.3"
   },
   "dependencies": {
-    "dom-confetti": "0.1.1"
+    "dom-confetti": "0.2.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
